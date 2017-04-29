@@ -1,2 +1,2 @@
-# stroop_affect
-Statistically testing the stroop affect
+# stroop_effect
+Statistically testing the stroop effect
